@@ -1,0 +1,21 @@
+/* 登陆注册盒子 */
+.signIn {
+  color: 255;
+}
+
+.signIn .row {
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.signIn .row label {
+  width: 60px;
+  font-size: 14px;
+}
+
+.signIn .row input {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
